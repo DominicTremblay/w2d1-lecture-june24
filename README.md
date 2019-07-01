@@ -75,6 +75,8 @@ assert.ok(expected == 3, 'one plus two is three');
 assert.equal(expected, 3, 'one plus two is three');
 ```
 
+- [Assert NodeJS Examples](https://nelsonic.gitbooks.io/node-js-by-example/content/core/assert/README.html)
+
 ### Chai
 
 - Chai is an assertion library that allows us to more fully embrace BDD.
@@ -87,5 +89,3 @@ assert.equal(expected, 3, 'one plus two is three');
   },
   ...
 ```
-
-- [Assert NodeJS Examples](https://nelsonic.gitbooks.io/node-js-by-example/content/core/assert/README.html)

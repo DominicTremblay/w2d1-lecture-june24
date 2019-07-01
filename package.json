@@ -1,0 +1,19 @@
+{
+  "name": "demo_jun24",
+  "version": "1.0.0",
+  "description": "counting the number of vowels in a sentence",
+  "main": "numberVowels.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "Dominic Tremblay",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  },
+  "dependencies": {}
+}
